@@ -32,4 +32,4 @@ You need a player who is both your in-game friend and your Steam or Xbox friend,
 
 ## Removal
 
-This mod is meant to be temporary. Once Fatshark fixes the friends list merge, disable or uninstall it; it stores no settings or data.
+This mod is meant to be temporary. The bug has been reported to Fatshark: [Friends tab lists the same player twice (in-game + Steam friend) since 1.13.0](https://forums.fatsharkgames.com/t/friends-tab-lists-the-same-player-twice-in-game-steam-friend-since-1-13-0/127842). Once Fatshark fixes the friends list merge, disable or uninstall it; it stores no settings or data.
