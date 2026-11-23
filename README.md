@@ -3,6 +3,8 @@ Friends List Fix is a small workaround for a vanilla regression from Darktide 1.
 
 The mod picks one entry per player before the Friends tab is sorted and grouped, and keeps the in-game friend entry, so the player options (inspect, invite, remove friend and so on) keep working. It does not change the game's friends list itself, and there are no settings.
 
+Download it from [Friends List Fix on Nexus Mods](https://www.nexusmods.com/warhammer40kdarktide/mods/1683). It needs the [Darktide Mod Loader](https://www.nexusmods.com/warhammer40kdarktide/mods/19) and the [Darktide Mod Framework](https://www.nexusmods.com/warhammer40kdarktide/mods/8).
+
 ## What goes wrong
 
 The game builds the friends list from two sources: your Fatshark friends, looked up by account id, and your platform friends, looked up by Steam or Xbox id. Each source keeps its own player entries, so one person can end up as two separate entries, one from each source.
